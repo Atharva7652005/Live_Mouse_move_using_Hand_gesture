@@ -8,6 +8,7 @@ Control your computer mouse using hand gestures captured via webcam using Python
 - Click with gesture (e.g., pinch with thumb + index)
 - Real-time hand tracking via webcam
 - Smooth cursor movement using interpolation
+- Screenshot feature
 
 ---
 
